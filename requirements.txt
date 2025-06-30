@@ -1,0 +1,8 @@
+transformers
+torch
+ollama
+gradio 
+pyaudio
+wave
+numpy
+openai
